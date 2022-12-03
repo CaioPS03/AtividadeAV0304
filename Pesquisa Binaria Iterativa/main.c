@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #define tamanho_vetor 10
 
+//Metodo implementado: Pesquisa binaria
+
 int pesquisaBinaria(int vetor[tamanho_vetor], int item)
 {
     int comeco = 0;

@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #define tamanho_vetor 10
 
+//Metodo implementado: QuickSort
+
 void quickSort(int *vetorNumerico, int esquerda, int direita)
 {
     int i, j, x, y;
